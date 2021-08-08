@@ -1,2 +1,6 @@
-# Finish_Tasks_step_4
-Course "Test automation using Selenium and Python" by Stepik
+# Stepik-auto-tests-course-Selenium
+Homework to course https://stepik.org/575  /
+Автоматизация тестирования с помощью Selenium и Python
+
+
+ 
