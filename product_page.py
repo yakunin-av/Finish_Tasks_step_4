@@ -6,7 +6,7 @@ class ProductPage(BasePage):
     def guest_can_add_product_to_basket(self):
         button = self.browser.find_element(*ProductPageLocators.ADD_TO_BASKET)
         button.click()
-        
+
     def guest_can_see_product_name(self):
         product_name_in_basket = self.browser.find_element(*ProductPageLocators.PRODUCT_NAME_IN_BASKET)
         product_name_in_store = self.browser.find_element(*ProductPageLocators.PRODUCT_NAME_IN_STORE)
