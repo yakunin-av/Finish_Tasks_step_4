@@ -1,5 +1,2 @@
-# Stepik-auto-tests-course-Selenium
-Finish homework step 4
-
-
- 
+# Stepik_project
+training project for writing autotests
